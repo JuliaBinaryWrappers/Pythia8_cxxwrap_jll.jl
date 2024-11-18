@@ -1,6 +1,6 @@
 name = "Pythia8_cxxwrap_jll"
 uuid = "2ec6ad34-3a48-58c8-92a7-b3b42157112c"
-version = "0.2.0+0"
+version = "0.2.1+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

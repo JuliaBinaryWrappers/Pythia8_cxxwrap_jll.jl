@@ -1,853 +1,853 @@
 [[Pythia8_cxxwrap]]
 arch = "aarch64"
-git-tree-sha1 = "8165feefcf7c0675d8b0b4321e555c8356f63e13"
+git-tree-sha1 = "0c9046dd6384f8d2ac0b6fe227f15d38ee99cc43"
 julia_version = "1.10.0"
 os = "macos"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "a7a0f5357c640f8c7b79d5d65198063622d72ac8bf51b6e1b33c5a5498d831da"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "4b7886694ff74ea24eec7f5c9a2c1048803efb72adf6c6f47a2020874067332c"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "aarch64"
-git-tree-sha1 = "7d0430446443482a10c67f0922aec190e7faff17"
+git-tree-sha1 = "33ce48fa0ab50b9b5a24458ff03a4dbbee04688e"
 julia_version = "1.11.1"
 os = "macos"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "599ca7cf4b0166b9d13b1aa6135e716413d0e030a17712ff9af437464e962bda"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
+    sha256 = "574fd510a33792d8d473cf5f02fccd5e96501b5f3747531f5a68d81f49056c8e"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "aarch64"
-git-tree-sha1 = "bc6b118b05654d15fb9e97b38dcaa544b432c2ad"
+git-tree-sha1 = "c60a6cbcb1b463177fc2095a83f7bbeee5f09bab"
 julia_version = "1.12.0"
 os = "macos"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "5de9eda62487eda436b0ad669442250adaab250433da18f0812598f15764fe0a"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "7cc815259cc459eacca3cb4f30970ecbe6bd8b522549f8a501d09ed4729823f2"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "aarch64"
-git-tree-sha1 = "b90b50932f7c6a9559512b2a9a60a3c1f8654d30"
+git-tree-sha1 = "b6c9d29e7fa2966d1eaf9738ef84fdde44e0f218"
 julia_version = "1.7.0"
 os = "macos"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "5f89a7a75607750ff6093a371fbd38a751bc8bdf5baaf6cc591eb34bdaaed04f"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
+    sha256 = "c058db3add96c416c30a7b4c795b177b6153a1661442cc367a26b9cd8637584a"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "aarch64"
-git-tree-sha1 = "67e3537487519e972c6e3d0de22a180d96681b5b"
+git-tree-sha1 = "0018aae7ffda9bad1fcbb63127cd8efb676e9e42"
 julia_version = "1.8.2"
 os = "macos"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "4bb2843a2c8286356470fa0ef6ec36d95bda0cd3ad9edd5894e738fed8ab8767"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.aarch64-apple-darwin-julia_version+1.8.2.tar.gz"
+    sha256 = "0ccce64135b5e9e08aeb825a8b76904cf03d11faae8e9ae694ca9d77d6fe4943"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.aarch64-apple-darwin-julia_version+1.8.2.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "aarch64"
-git-tree-sha1 = "5f5e8b8465e8b479281b221f560089dfb9fa18fe"
+git-tree-sha1 = "d437e75fc8bc702c06c61d38208eea4b934f007b"
 julia_version = "1.9.0"
 os = "macos"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "755db01db056729d95a6a0cc1898dabb3ebcf6371ed1420962b87c6409b97ae3"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
+    sha256 = "11663ce40e00f63206cab2b55a191a5d256e9ca48a754543a2578e20378a1793"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a265519f6fac1f82c4c2b9e1dd13bcc094a45eaa"
+git-tree-sha1 = "4747a57e573729ef54e4bec8c8b69c19005de7cc"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "9848ef8395b311a27709b50ad94fbba130d43c5c969a18a586317f10ffdf2a5d"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "889c2ffdce5f44c3651b84ae8a8cf34ffef8950ad4542ac6fe59df9bde2bc01d"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a70f84f67d58525ec8651023cfc079aaf43794a1"
+git-tree-sha1 = "8c5b1feea0eebec59cd9056cfdad505297aae557"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "0d353759a7ff9c86ceec18a7d59542ab412d28a4eb2d3660d7b56a3103d49f87"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.aarch64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "63d03b09b4c7fd592e17aee241437e2c26890f3210acc7a1580147341b503238"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.aarch64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "36640b8d72e3fb278f737a782b035960f32a4a94"
+git-tree-sha1 = "3857d8113aa3278cd6e46fb79755516aa9047956"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "4c7f4597dfb3be7d9b2776ce9c0cfa9924d799baa7f18641bc35090a52412480"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.aarch64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "03a17736ef3b8f9381d8f928234928de177e4ff396740016e4af5dc8987f45eb"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.aarch64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ddb6c0bd318248f713d71ea603a2573edc1137f5"
+git-tree-sha1 = "d429ceb63a54c712a87f0a6c7b59663c1aeb4654"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "c3f2a6e0696ecf91965a9d563ea68c1d74f6be29fd236e17a483160ad21d3d01"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.aarch64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "663ba94045da8863c15e6708d3cd41966ea16a0384cc3b8a7f9dcc47b9315554"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.aarch64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f4a6e8eca3b79b7a75bf23a276ef55515265f030"
+git-tree-sha1 = "012ba288b5490b5175e73382a9646944e756100c"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "a45ca6577b265697f3315dcad7a7b9818cae6a1ffc6a0da8a083154b77e7c7b0"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "7cb2d65906b2c773ed68b712f7e33885ecb045e2062ce1e64b8d1b3cbb1fc5f0"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5628ec4d34f90bb78b794238eb172991238bdf2d"
+git-tree-sha1 = "ef49301650f565b8c7f9de5af4123a815be8de64"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "f5b78e9e71a069f8846a4758b5bb0036039d1b4518500d3c3ca561cd885c187f"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.aarch64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "61049824b881bb70d390b18dca1801ac88229fb747df999a316e4e5026b1e595"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.aarch64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e59aa99d0441515ee7c1edc1eee47bb6b55d9f4c"
+git-tree-sha1 = "6fd15db4fa03bb52009e25ab6e96182d8ebcab03"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "36eeaf2413000f3d99c4bc76b3e95150b3a8004fca822d1202df2e1a4d1cedf4"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "e290cf5e41bf940381a30aa087342656f6c9e290b46e0a5ac656bea6d1ef8e3c"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b4184129f68f8cb394f3c24228fb69e501fa3af4"
+git-tree-sha1 = "9a6cf5a141de0b901c5a7c1982cbfd6acf74a3e7"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "8c86ea1c7069ea9974c7104821b813f675788f9e0a5b3744844bf1e9a54257a4"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "56e9f353de877cd7df168eee6b9e8a48ca1cde126db4a14baaef04e165984ab6"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "35791c82e59dcc3c38630ddc6c1db5381f3c29c9"
+git-tree-sha1 = "036946e8ad0926b5ffdb4e01b2b8c842ef252002"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "64a45ff1b4afaf415f755dfd9765cd14d17021a9a3508053260b04fb071868d0"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "691498b45b89b6dfcd9cb07e4ee80abbde4d2692f1a78238613884f0a057716e"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9911a05a70ded1cdd36edef4277af12c1ea09fea"
+git-tree-sha1 = "5542d3e80341aca5014dfec28755e6ba69ac0512"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "868397231154a1ea00ed56bff426dbb5bcd88036e7ea375dfc4b7677c37fabc1"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "8532e4a1f21fc8202138b98ea86a0458e99470f719d9fa0dd2d1c7842ec6fd1d"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "595b65b0f1bce6f0cb7c502a21d491dfac8e649f"
+git-tree-sha1 = "3dd53c8660c39071a827f0929d96713e9a8a26a5"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "20295d714759aedc34bdfd3f9e39497a926310caedc3e3f6cafc821ffac2f6e1"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.aarch64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "90a34d12b4c21bb2adccb956e4fb561f562eff76745d0000ef4ffd10cb1f6050"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.aarch64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "93448ec53012ff4a75bfd096a775f0afb68d3297"
+git-tree-sha1 = "91c0e5b396d454843f760b92d7df35c42d8d127a"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "0f5a9d3cc73c0a9586fbffe51dc142ce4b24ba0cc5f1d14c97ebc4e06eac635b"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "f52a43914ef81506bd8365754c4c2cf845da0c7990d386aba4256f7f3087f367"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8f91071efa6ea1062c3a4095b745c02e47c6538d"
+git-tree-sha1 = "a68946ebd05e07d5bb485875726f720179614955"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "4a6a9a3572ea33aef9095e1ca0c138385952c699b636f1f33e8d45da33814a4b"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.aarch64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "a6682d8f35e48ef7c1fe3de120c51f67428347bde7df06ba451d92014fba0a89"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.aarch64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2050ec827997bbcc0f18116a91c6caa86c448358"
+git-tree-sha1 = "6c36fa93e3d6fc637f85c1e5b816066aabc24a1b"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "ab6ede216169bf43475da95c1456367d78efebabc8aff48ce19f8d3594278c03"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "e325eb2b6c4b9444bf0c43095ae62b4b4841efaf54e2ef187ba513c671f4349e"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0f0c505e9efabdd36004d21c7d03c8ad485ea400"
+git-tree-sha1 = "5f8275805424be1b32609481c6b8ca5b139e8ad3"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "241a80813bcb723b3f34a7416342f790663b14f2f2d2d3c6d562bc9163f7132b"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.armv6l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "6eee876377d12961ba48a8a08f10c70363162943f07784e0978022982089e22d"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.armv6l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "879e7c5b960ffa729fb4a5a6ba52314693159f5a"
+git-tree-sha1 = "eb38f6e75e86d4800fc98f8e3fd04c1089124583"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "286b9ac310128161548cee6f68c7d36ed8c5c19ed7fd37eadd7c7f6d96642c84"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.armv6l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "077baf87a7b3b46577e841c33ec47421a1e206ac09231bff4e2d7b3061f826bb"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.armv6l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "38422a44c5e8cc8441597e072ae5f5581311e812"
+git-tree-sha1 = "9cabfe465706b1bbf8db06b3e7e1d86e30f081b3"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "155d83055886e81c9f8db02e92d47bb41203df33eed7b0f73f067ecf0ec19261"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.armv6l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "ef065e9838a4ca012f55b461bcd781403c26747ae2c556538bb938089cf23280"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.armv6l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d328fecba8aa3d93035f0247d00a3ab76f8d75ed"
+git-tree-sha1 = "347a66d7f2c1d96ce31a989edf75a90a69b15483"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "7912e88405ce49a7a8bcc034fa18c3cb13f31f02ac3e5ca97ac3549f62cf80fc"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.armv6l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "3110f3409c018836b567b60672b17d88931da037c4c21c2601d6da51f7a9ead7"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.armv6l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c39cb3883aaee8dd4a60e5a137b6de439e7a951c"
+git-tree-sha1 = "b42860b29d802506e46acc98f9624e73d4840137"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "37638f741328cc5be538c630f942b9a7242ad4ddc7cbe241be8a7725e98bdbc7"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "acf54a65a39dff78c950bf2cb2e27a31edc380642815f3ff927e7e1958617287"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.armv7l-linux-gnueabihf-cxx03-julia_version+1.6.3.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b89b148f8b5346e55ebd6dd29e22eadedaae73f0"
+git-tree-sha1 = "959af4cdae8b0274d5dd3a663ab1149108cb2763"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "f91fa81c2030e40abcdb04c5a937757a57743d1eb0bed96a35efd0cb1b774b81"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "4cc1fcd95ea65f79ca5965e0e5c3ccb2f6cc7e66adde98366b809d7ceb8a1d27"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "abd3a25d160eb9efb8ce1a95521a0be3ff3781a0"
+git-tree-sha1 = "f8395e35fcc5d03ce590aa822d420888f93f49c1"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "f4ff7c98ae9d6b773445f1bb6593b9a979f5fc5b2e03269197dec3f04aab7b61"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "8974ad8b79e681058e59f666c147aa00f90e6febef9c94b49b690ccb9786e7b8"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5d05aaa9d1a11539c4b29faeb94d5f247d0bdbed"
+git-tree-sha1 = "c0046e2bf3102610d7a19a4c58a05c7479ff3d9d"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "d1b560e380d44c941d59afd67e5268d90286e37feeccd4430a5e3d1e1d04c967"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "e36d1b94156fcf2d9c96ea17b5639998bbd18a7685d4eca60d7e0a404f440e8c"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.armv7l-linux-gnueabihf-cxx11-julia_version+1.6.3.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "df0c3b47b6185e02a4abe555cfa6c3b3db5481d2"
+git-tree-sha1 = "cfc1e5180bfefdfd8075448763dd204e20f2bc80"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "6b1680618f5c47d71e4786228e43e5331afd770ca12aa832a822b7f3ca8795e5"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "932fc55c2914ef0b34b6f12c94f2f14a0685d54a1bf6e8c8af4e03d6f3886e8f"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8c136fc569093c8a30e45fce1180314df2b01d15"
+git-tree-sha1 = "d795fa1f60127754ddc23a70f3f8416852f9a22f"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "2bc97e93ce509f71bb1d771b19e51f1d1c52f29a31cde44906914929f57d9bdb"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "9a9353ecae6a0de13bebdcf05ad23f984f4f368e4d615e39031451ecb2199468"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d1a92448bb77e53be243a668b81c9dd345a278b1"
+git-tree-sha1 = "313dfdb4631aeb39bb879860f2b6b602d3039372"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "fd7baaf07ea44df916e0fac7b587135adbdee320e8a04db2573cdffb42eb4adf"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.i686-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "d9c4aad46e28b38c36ac07b68e3ccfd044b3253792199452e6a9c93b52b4d56c"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.i686-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4524d5a10c2632ea9bcd3669c328feadf8b333fb"
+git-tree-sha1 = "37e1a45094111a9a417c488eee9c148b443298ed"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "08ce37ba0afe9e012ca498212922baa70671b36fbc102c12f71a087a3205e485"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.i686-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "554dc23f38b8a71e1d52040e13c866a1f4c505237ade89f0f5c0dbcc4b498817"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.i686-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "38633850b4e347bf3a22a4dcdb37fc12d6fd7556"
+git-tree-sha1 = "8fa3ac0d92a6f826bb05de9e1b16094cfef59533"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "ed119a4c6a6f234042bb14bbd9139efed0cc2a7ebb96a9e9faaf131e0c241e0c"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.i686-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "e8b66b365e29612d8c96f4aa883328b4dab083fdf0566ac4fdf03d7cb8b7467a"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.i686-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cc9cacac4dd6bc021a0c5557d2899d8993a3f3a9"
+git-tree-sha1 = "673b387c8dd0163e8b420dedced0559f8b1e0fee"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "141bd236ae3164891be98649246618992b99c0723402584545747a582d7455b8"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.i686-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "bfe9ecdeb12272e260c9cfccbc1d18978ca7b4d12141c32f721e780f7c52655b"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.i686-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6d970f9801e51575b00017e07e3f4bd0a4701091"
+git-tree-sha1 = "8df1a6d4dc1c937cde5ea0fb303c41eb75684ad4"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "a1979d3a17c63119828ce0c961043c259ebcd87e9693a409312b395450184b3b"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.i686-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "a4c1594d2cbfa17c18ea465565ca1bea732ae4185785fa778c7cc56084efa71f"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.i686-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6bcafea800cdb1ad3394dc87fe3d7f51c3b72f81"
+git-tree-sha1 = "bf21710bccd61d39313c520570f086644a46ab25"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "5853f83c1dd27e5ba3dfebac6319f2b2483797d60f7e812d458b0f6c9e2751af"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.i686-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "104e806e6c9b059a9882080a72f24f189bae38356206ea133a63d4d399a98ab4"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.i686-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "eb0cf7adf8350f359ac4bb62a8716d19a0bd658a"
+git-tree-sha1 = "d73c03b6fbe3b4b567ea53775f7cce6530ad21e0"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "ac1801c4d01c03f12dc46084565bc80077eda062d51307d20b1449ef516628dd"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.i686-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "61bbf43e12b3c0266a6b50214eaa451f127997c53ecea1950a7850be13bf8d17"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.i686-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1b2dcff031f71c7451f8a9c52e4f9b276a209b56"
+git-tree-sha1 = "1f443fe0c423d1cab23c4558c15b9fabf34828cd"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "df3c0a93abba0be01860c30c72116d46697f4964fd50adbd373ff00fd95922b2"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "c533400ae9e1a5db9876e8146bd801c183ad78e51946147ef3448e7f3871840a"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "82718bf5bd8eadac439bb9704600f28c144f65f5"
+git-tree-sha1 = "7cd46e7fde4cbabbabd99cda9c2786e79b0a4bf5"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "9265a3ff2576a031b19a1344e0dc75f61d9509fa5721d835bce18a2b8916c687"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.i686-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "15074ba69dcfa997522c65ae43fa41eb131d461535cd937708b44c39961db12d"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.i686-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "79f29ead9e6ec909ea968b1e80f8de10754dd124"
+git-tree-sha1 = "69a8f90be64119a8bec25474dbe8d51acd04a6c5"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "f8c8e3a7af396921255ad01523c1350d0a481dc8e3bfa85e12c3f4917f7d290d"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "a4133669a7a14795f45822cb6d3b976b0a238bbec786ab6b815650d59087b5fd"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "30e29568ec344b5225c9a6655ad0784ad16d3a5f"
+git-tree-sha1 = "ac15c7f1495082675bf9b1cd575fa9e57603b515"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "67ddd91e10cc6946f94b649140c3bc58c4b380571d82dc9fbce2c966936e36cf"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.i686-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "170c0d26dcbe3391580731991a9e2cf26879fbee1f9afcd3eb0f8f6c21c877db"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.i686-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "83d5171b381c4bfbf0657873366c6a68615c909c"
+git-tree-sha1 = "a71e04b8269ce41238db8da5f2779334da1caefc"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "90695295366330bd6d7bdd6aa54d7c39afe54a27ee5e2b2c05293fb2c1cdc744"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.i686-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "9c6218b24e0d531924010e94420f192c34fd6f28c2e3459f2a88e9cb335edc06"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.i686-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d8c7eaee206123e308e5f50ab5095519890f036c"
+git-tree-sha1 = "25934ff0bfb1f9a912d4280e1c6d21877983107f"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "3dee333f39384a1936e579dade9a5d11cedfe4b32bc27a862bac40a29b783366"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.i686-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "51b188b26f6467cbe971942aa9fb20eb6d8ab6c15b574d1d2fc9c79e3bde0200"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.i686-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8d892dee5dfe22e748285e59061b15864794a6f1"
+git-tree-sha1 = "547007215c7914abc95d140514e4cdbe243d2745"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "b23cae1af211068983bc88cfd6ada12c932c95a97c2a65678472acc4c3ab5cc3"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.i686-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "78ad13aae6f912426a9a4f0527d2e2f555e7f024722641ef07e276272d58eb04"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.i686-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1cf5dd9bd9d9ffe3d100f52489110a5ae1265c3d"
+git-tree-sha1 = "d8831fcae9f4fcbb6a7d30cb92cd9135c36f54ca"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "d1d8f61f84ca5a61456dd2eadf71a107a1c7651024906882560eb841dcc1831f"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "053d8e6d81b0bcd360cd994709116dd8a6b2289f891ec554fd0920405b1be5aa"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "72083f73b1456b6ecf6ed66e639846b645a4390c"
+git-tree-sha1 = "933d7c6ef2249385b52510f187294c3da737c823"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "b31c103fe293706e9a05c3187db6fd2ed5919f9c19488abcb1b62e239728e61d"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "bc88d41359751fd6289c994c5c50aed228131cda6d6d26a73bbc6bf91f03fc4a"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.powerpc64le-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a80aa3471e205a3842c4555db5c7a7bab4a1452b"
+git-tree-sha1 = "035bd9657173b44b54370d6b88695c00e70799cc"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "df7443a1c80f5dfe26fb9fd114830cb5b2353993b76b45cdc4ecefd42c872ce1"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "4fc1a1447cf16567acf2b6fcbac847b1772c7df8caafbf717fd9b70ffed5dd4a"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.powerpc64le-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7552b127fb1ff934e3e7da9c7b123e15511c296f"
+git-tree-sha1 = "68d699e3a021127faa253cb1acbeffa9318aaa2a"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "eca2298c0f6788506757cd00e31b7494ea4d4cc5f9eb787a68f61afac9daaa70"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "3d21c4b387c035a9ed6cdec7ec1c6bd82a929cace6d886a9e4d1f448c9eb1447"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.powerpc64le-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "84d666412ac2cf5653e16457a07161900f2ff4cd"
+git-tree-sha1 = "e34ecd2527fc099a7386d843e0752449122532ab"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "dd68f4e36237f030db773407dfaa4cfb0404db993680521247cc1ac3d374e9ff"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "0f03a53d759e683f072850e4d87d9064061f07a361a6c9da8556b9577925f6f2"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bd4f004797249bba02f90609a0a09fd47ceb60a6"
+git-tree-sha1 = "b724120a27ab0734f73c44ea2b7d646570348bba"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "169cdf1c63b50ba547248b0e6b90ff2989fae5a986d3a0cf6a141ede80f94c01"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "e62610f3a335cda26ea83dabd01a96ebc914462cdbcdd5c3692fd0895f7d0da5"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.powerpc64le-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0eda907dbe9cb9975f772e895e64a9b9381fd2d5"
+git-tree-sha1 = "8457db9792ebc1c9a54b0f173ef2b8f00b9c0565"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "6860b2a4fd7d146a58692f7492e06b05b7e02f1d5979e9043b216dfd92a23402"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "52b8736abd333bd750f945f0231b25b7306e8044d1856c8a84c72c473992a3f8"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "21301a7248229f9944ca71ee114a7ad06fa152de"
+git-tree-sha1 = "abe90edb1faa73813362fbe66e6bacac893efcbd"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "14edc742fa13d97fff0dd9d8686eb95d51a6a73545f4d03f768cc7c7effc03ca"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "4297c00a77297bd82f1baae1608802cae95974604b23f07c499845710a3ee177"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c46523aa67cd74fbfa1825b5d2bf7a4200d07e11"
+git-tree-sha1 = "b38f95f22bd170aae82ca018e15cddc3f68ffd58"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "402675afb747a28a5c86ca5e0fe177a394c71b00854bb43c9ece5c777ad2eff0"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "7d3b223e156739344480775036e703a86dccf4e0efce32c5323e65421dfb8361"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.powerpc64le-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "da87a7465ed35d8446470ae325f6060fdd946ea0"
+git-tree-sha1 = "ca353c99a3e268b4029cfe652c684153fcda2758"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "830f358717d0ed01570db811896e1a69b4c4ee496e891a210f7da347d548c993"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "33ff98d058b0593195e37229a62c45356d44d58e67da9f88a15762503017aa4c"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5aa897fe43d54a32caa00f3a1b28e9ecff365f9a"
+git-tree-sha1 = "6e80cd28dea5fbf07442423f0561a19ce96af5ec"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "1d890167d17b6c0061a9d1eda04208426d6291a04350abac2d620d748971fce5"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "04012ec031c3f14a9d197884fe71b295750ca9cab580e3ba3bb38d31d2d983de"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.powerpc64le-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "09ac99080ede2d73b6683a65b1ba6745e742c96b"
+git-tree-sha1 = "a813188ea97b8d80a382a1a7a79c794b55a41dc2"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "21b7578489ca9fba8a8abc1997e295459cec8c17fbd0bed6215a635ff1f93b57"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "7d076281210a3f252db913a3933a882940f8d641c306738b1a0f602ae83f26a3"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cdaae8dc2933090e616dd4c2295ca4a55bebf863"
+git-tree-sha1 = "8d4ee3224edf9943c481da36fed5828c2c2bc004"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "ffe57d74e02ba24fefe021d480f05ee4b0e278fd491f9a7bea71fef949250a20"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "6cbeb9424e1f108bed65a2100c28e3f73451ef2a438b9e766d12506c9e5a906b"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.powerpc64le-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ba77a6086cb2d08fb4f6140bb30c3fed58539e96"
+git-tree-sha1 = "2c9ee944668ea003687cc4b00a1c0a50fdfe945e"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "458a5abcd1f8ead3faa27d6b7a92392b0f6cda4abe15eae84dedc534a907d614"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "5615a5fb0c5c25f2bcf41eb83a4ebb53cca296b58707d1cbe759a9e759c48cd4"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "x86_64"
-git-tree-sha1 = "77b756056e1b3951ae39a7c82acf0763a60551ac"
+git-tree-sha1 = "466abcd4aa6314a00f208236bd19883c54860609"
 julia_version = "1.10.0"
 os = "macos"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "693bf198a97fa2d807c45bebc951eb2342e6fff340dda1365def09743637bcf7"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "3a46741f7dd9760e4435d6fd9a4605cdcc11911c4660460263aead52891e4c20"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "x86_64"
-git-tree-sha1 = "534e52216293236b3c968b0dd5bf8dee0bb406f4"
+git-tree-sha1 = "fb9bfa81698cef3f29771c03ce31e585aa5518de"
 julia_version = "1.11.1"
 os = "macos"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "30cb45364c3158879c65160564c7bb8700178eaa1641db3f8dce3565d62c4db0"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
+    sha256 = "0c95b82b9133c42a9c613407846b39c8305ba106504b298062e9b5525cead5c3"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "x86_64"
-git-tree-sha1 = "ddacfb562a2d36a4fee75bc7cd2aec14f030a367"
+git-tree-sha1 = "c3f37d007439cbd38edcfd776b987d09dea8b707"
 julia_version = "1.12.0"
 os = "macos"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "1de120c1eb04f04c7ba8d09d0e665ea53781aaa869e2200a426e7a2a48c7abb9"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "b5d1f5ca04cdede5fbb660b44dc7a956fc84028d6395611c43543f563460999e"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "x86_64"
-git-tree-sha1 = "c2ff7596fab4c07dce706e1da8f2c9d912dce852"
+git-tree-sha1 = "0fe78d5ed1233a410ce4cdde4b92def0ce4d1c99"
 julia_version = "1.6.3"
 os = "macos"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "e2e5b94ca7b1cd6e2623244c0b1d46cd4375cefd625594f56a941cf80a4d1f94"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.x86_64-apple-darwin-julia_version+1.6.3.tar.gz"
+    sha256 = "0225216372048955b9a8d617c2cd6ff3446ba1159b43b5af58596d000e23978b"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.x86_64-apple-darwin-julia_version+1.6.3.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "x86_64"
-git-tree-sha1 = "a9c6bf5930876e6898aaff3fe44ac58c277cab9a"
+git-tree-sha1 = "1efb1e79465c407745d34d10bed6697a3d0a8119"
 julia_version = "1.7.0"
 os = "macos"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "bf6091b799ccfb36a5d68582a9482557a8ffc58a03dbbaf4cd7d7d5f886842db"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
+    sha256 = "0a2026ea5349e075cb70029db945665f631cd5634cfefc18db614b6d7abc7e0f"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "x86_64"
-git-tree-sha1 = "6c215567189710d49149942353311642c1ca0e4e"
+git-tree-sha1 = "18ec4742f0d9c3723c14e7a0cb1ca45ca0140ba4"
 julia_version = "1.8.2"
 os = "macos"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "cba4aa111cd88f5ff65c924ff90acc60022033607f90fa7914841d7eb12222cd"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.x86_64-apple-darwin-julia_version+1.8.2.tar.gz"
+    sha256 = "bd992ae4ecf3bd7cced273aab10df25533dd9325342c81a5d3a4d71b6fbd6fa7"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.x86_64-apple-darwin-julia_version+1.8.2.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "x86_64"
-git-tree-sha1 = "e78ec0dfa387c8e09f8e8e69c8f83e1b4cb9c0aa"
+git-tree-sha1 = "ff23042aba15e0c318832877e04dfa830575fdf1"
 julia_version = "1.9.0"
 os = "macos"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "6799f092bafd241eec57b4652bed8f137555c5b426eed2a8ba8f8feb5601c44e"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
+    sha256 = "0ae3469cc5d53297155c44170cc1a7a494a1fda06a2269425ff060c71fb17bcd"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4078d3468c58fa947235ffe55a6eab211f957b46"
-julia_version = "1.10.0"
-libc = "glibc"
-os = "linux"
-
-    [[Pythia8_cxxwrap.download]]
-    sha256 = "7e165176040aa652f40344ffd63ec740fef830c143e21c0a7d80ef8ef2de809d"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
-[[Pythia8_cxxwrap]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "bd256b53e1719bbe7b2618078afd68f1a60a02bf"
-julia_version = "1.11.1"
-libc = "glibc"
-os = "linux"
-
-    [[Pythia8_cxxwrap.download]]
-    sha256 = "ec231685b42a9b126f8305eba15095106972268233271456538571a96d6295aa"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.x86_64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
-[[Pythia8_cxxwrap]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "d2b485d500cd53e63b710d8207035ae132e840b1"
-julia_version = "1.12.0"
-libc = "glibc"
-os = "linux"
-
-    [[Pythia8_cxxwrap.download]]
-    sha256 = "83835470155968b90366d42d77a75fac546e98a7379da652b7405daa6f64f5b2"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.x86_64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
-[[Pythia8_cxxwrap]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "a577ceb2a0443ae5899540440e601b33ba90ddc2"
-julia_version = "1.6.3"
-libc = "glibc"
-os = "linux"
-
-    [[Pythia8_cxxwrap.download]]
-    sha256 = "76d68b28acdd625b29f7657fe2842b202660a7b3440857309dcf937179461069"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.x86_64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
-[[Pythia8_cxxwrap]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "69241c9b7f700c3bfc54c5084b764448f70cadad"
-julia_version = "1.7.0"
-libc = "glibc"
-os = "linux"
-
-    [[Pythia8_cxxwrap.download]]
-    sha256 = "d5d2893d68771b3eea7d7451a729cbdda671b4b839646239417944886b24e0ad"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
-[[Pythia8_cxxwrap]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "da1f0738ce3b8f5dd51d7546d795f7941986fc39"
-julia_version = "1.8.2"
-libc = "glibc"
-os = "linux"
-
-    [[Pythia8_cxxwrap.download]]
-    sha256 = "34e102550ce2459f4104b5f7ca5ceb19f6f42fd98076fe018c4a278a479b5b28"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.x86_64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
-[[Pythia8_cxxwrap]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "f5191d093cc6fcdaf5cb9c610ff77558f348ae22"
-julia_version = "1.9.0"
-libc = "glibc"
-os = "linux"
-
-    [[Pythia8_cxxwrap.download]]
-    sha256 = "67daf07b5e6aaeeeaa203fe45cb7dc4ce41fb71e46661086604db3a581ba1407"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
-[[Pythia8_cxxwrap]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "38a954455826811a48b8ad171eb57995e4f74224"
+git-tree-sha1 = "7440bc780b2354850b61b3d0d928cf592d1daf63"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "274eb0eb8731fa5d35b294ea37cc97ab20b30c0867f880148d06dcbfcd0fbce6"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "4a3218e9e6df0e4d688c56897c39112854ef36b3c21ac1d5d63ed6a201b5afb2"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "afdff776f9e9351a044566643c2c5f87a4bacff1"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "11efddc28ce2170d4340c35508564fefc8ec21e8"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "d7d4a88c588a0153c93c471eab6616202a7659d70651113c334721dbfee46a10"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "71c727ae068118a85753c7525b4b0c309875050edd5956abe2d6821b82e0e9d6"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.x86_64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "121abe6f2892c1a1b5a1907cf38562045af9d923"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6ecf22befee266fe961b19253c54fcb54626a9ca"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "6071bd8391ef4e98ef1aa9c970e752a2a75bbab3367545631ac10fa33ebd573c"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "e72e09705c7223c088279e258e30b826f89127fd6f9bb1791b440844887b1802"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.x86_64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "2df7def534e2521692203482addc0336f65eee06"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f440cb5ecaa3bb2c092ea5fc46993d203cb670cb"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "58cd74d005eb903bd2818bfbe2f01125dccb3793b6ff9e272c70249be463021e"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.x86_64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "aeea5842145ce158e1646a836b49a7641a695312c76d626f8d85037f22d206ac"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.x86_64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "a6003b464ea4792c69678630d50ceac9e2af91ff"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "94ad07ee36c6031488c2945867acb0e2b21d9468"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "532eddf7fbedafec2fd2a16053f5b17749ba5d92ea51fc349d9720dfb54a87cb"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "bb584b2f475ad23f6c2d3f6d28acb6f7b8fe7d0bfb4d8098906c6c2b96e4f1f9"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "150d37243b8f41345e28d9cc5d879cf189aa5690"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "aaf798035e96071f0459c7bc0a931ba923a2c79c"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "175f9f8bef7c469a11759017c6d6bd20b4020cc5bbf70f65948fe932b7140584"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.x86_64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "5779a83a317e83fe63f4c32e3ae7c66217b7c702663fd152533ee170e0deff17"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.x86_64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[Pythia8_cxxwrap]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "325ec80a337da743e769f97ce95aa6c57b511e09"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "009b0c9fe7f923f93d343a37ee2af7b82a1763ee"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[Pythia8_cxxwrap.download]]
-    sha256 = "2e3dffc72e377ee518c2d685e30b56ef13fea44a100eec144a978d4663526869"
-    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.0+0/Pythia8_cxxwrap.v0.2.0.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "54acf26012ad9b453f8918efab193603a27a2f7fe1fe9bda4344d027c7f8d469"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+[[Pythia8_cxxwrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "282133f225911da757e8d8437cd40db0f7f88074"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[Pythia8_cxxwrap.download]]
+    sha256 = "d468c8c53e2c140cbf80bf1cdfa767e97b59370a3f701295c8558c44c846e4ab"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[Pythia8_cxxwrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8ccd91baeeb4f5cfca2a320383f9285325b48d0e"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[Pythia8_cxxwrap.download]]
+    sha256 = "a8aae4983b9dcdfef6a09780ee18506f4ce2134b267815b058b883e111fb0054"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+[[Pythia8_cxxwrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8bd7d6bb1a8cbdce89a96d63d891132da4a72dc5"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[Pythia8_cxxwrap.download]]
+    sha256 = "ae6e9f2462f349bdf785d0afc996d5ea93d5a8b1ed68733ba2071c6026e8410a"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[Pythia8_cxxwrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e8fac8469a67d6bc4296b43a67e1dd6c5fdc9e97"
+julia_version = "1.6.3"
+libc = "glibc"
+os = "linux"
+
+    [[Pythia8_cxxwrap.download]]
+    sha256 = "8f8e822088bd47f6744bb39963abf79fe8346cba7890a55a2f82d779eb22e24f"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.x86_64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+[[Pythia8_cxxwrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9865f220fe68730c54b4bb26657a477953a432b2"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[Pythia8_cxxwrap.download]]
+    sha256 = "2e624a45023dd697c02b9407bd59ee5ebce1e05768465d9d2df25d6e780197e7"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+[[Pythia8_cxxwrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "91c73a350fa03a07d9edc71abe23f66017903ca9"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[Pythia8_cxxwrap.download]]
+    sha256 = "87c89539ca21fd9230fb4787e50a4379ca92bdf6ba787bd926ba5c6a18a28d3f"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.x86_64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+[[Pythia8_cxxwrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3e8911478f5c5a3baf7080aff4ac58b66f2cd101"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[Pythia8_cxxwrap.download]]
+    sha256 = "e42ab4aa1dd99f9eecd348748313d5e88a588a739caabdd2d97f658d54654339"
+    url = "https://github.com/JuliaBinaryWrappers/Pythia8_cxxwrap_jll.jl/releases/download/Pythia8_cxxwrap-v0.2.1+0/Pythia8_cxxwrap.v0.2.1.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
